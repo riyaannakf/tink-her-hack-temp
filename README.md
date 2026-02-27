@@ -9,20 +9,20 @@
 ### Team Name: [Name]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1:riya anna kf - sree narayana gurukulam college of engineering
+- Member 2:parvathy venu - sree narayana gurukulam college of engineering
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+Parallel Universe Generator is an AI-powered web application that shows users two possible future narratives based on their habits and consistency. It uses generative AI to create reflective, motivating outcomes that help users visualize the long-term impact of their daily choices.
 
 ### The Problem statement
-[What problem are you solving?]
+Many people struggle to stay consistent with their goals because the long-term consequences of their habits feel abstract and distant. Traditional goal-tracking tools focus on numbers and reminders, not emotional motivation or self-reflection.
 
 ### The Solution
-[How are you solving it?]
+Our project uses generative AI to simulate “parallel futures” — one where the user stays consistent and one where they don’t. By turning habits into personalized, narrative-based outcomes, the app makes future consequences feel real, emotional, and motivating, helping users reflect and take action.
 
 ---
 
@@ -31,26 +31,57 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+Languages used:
+JavaScript, HTML, CSS
+
+Frameworks used:
+Node.js, Express.js
+
+Libraries used:
+Google Gemini Generative AI API, Fetch API, CORS
+
+Tools used:
+Visual Studio Code, Git, GitHub, Live Server (VS Code extension), Browser DevTools
 
 **For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+Main components:
+Personal Computer / Laptop
+
+Specifications:
+
+Minimum 8 GB RAM
+
+Modern web browser (Chrome / Edge / Firefox)
+
+Internet connection for AI API access
+
+Tools required:
+Keyboard, Mouse/Trackpad, Internet connectivity
 
 ---
 
 ## Features
 
-List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+AI-Powered Parallel Futures
+Generates two distinct future narratives based on user consistency, helping users clearly visualize the impact of their habits.
 
+Personalized Goal Narratives
+Uses user inputs such as goal, habit, time period, challenges, and strengths to create highly customized motivational stories.
+
+Reflective & Motivational Storytelling
+Moves beyond simple reminders by focusing on identity, consequences, and long-term growth through narrative-based motivation.
+
+Consistency Comparison
+Displays side-by-side outcomes for consistent vs inconsistent behavior, encouraging self-reflection and accountability.
+
+Simple & Intuitive Interface
+Clean, minimal UI that allows users to generate insights with just a few inputs.
+
+Goal Saving & Review
+Users can save generated futures and revisit them later to track mindset and motivation over time.
+
+Real-Time AI Generation
+Narratives are generated instantly using generative AI, making each experience unique.
 ---
 
 ## Implementation
@@ -59,12 +90,12 @@ List the key features of your project:
 
 #### Installation
 ```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
+[Installation: npm install, ]
 ```
 
 #### Run
 ```bash
-[Run commands - e.g., npm start, python app.py]
+Run commands -, npm start
 ```
 
 ### For Hardware:
