@@ -2,27 +2,27 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# Parallel universe generator 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: ElNova
 
 ### Team Members
 - Member 1:riya anna kf - sree narayana gurukulam college of engineering
 - Member 2:parvathy venu - sree narayana gurukulam college of engineering
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://parallel-universe.netlify.app/
 
 ### Project Description
-Parallel Universe Generator is an AI-powered web application that shows users two possible future narratives based on their habits and consistency. It uses generative AI to create reflective, motivating outcomes that help users visualize the long-term impact of their daily choices.
+Parallel Universe Generator is an web application that shows users two possible future narratives based on their habits and consistency. It creates reflective, motivating outcomes that help users visualize the long-term impact of their daily choices.
 
 ### The Problem statement
 Many people struggle to stay consistent with their goals because the long-term consequences of their habits feel abstract and distant. Traditional goal-tracking tools focus on numbers and reminders, not emotional motivation or self-reflection.
 
 ### The Solution
-Our project uses generative AI to simulate “parallel futures” — one where the user stays consistent and one where they don’t. By turning habits into personalized, narrative-based outcomes, the app makes future consequences feel real, emotional, and motivating, helping users reflect and take action.
+Our project simulates “parallel futures” — one where the user stays consistent and one where they don’t. By turning habits into personalized, narrative-based outcomes, the app makes future consequences feel real, emotional, and motivating, helping users reflect and take action.
 
 ---
 
@@ -62,8 +62,8 @@ Keyboard, Mouse/Trackpad, Internet connectivity
 
 ## Features
 
-AI-Powered Parallel Futures
-Generates two distinct future narratives based on user consistency, helping users clearly visualize the impact of their habits.
+
+Generates two distinct future narratives 
 
 Personalized Goal Narratives
 Uses user inputs such as goal, habit, time period, challenges, and strengths to create highly customized motivational stories.
@@ -114,11 +114,14 @@ Run commands -, npm start
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
+
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/1XY5uhR2xo3BJYHdxXymDZxNqzlYFw9_I/view?usp=drivesdk
+Data entering menu
+
+https://drive.google.com/file/d/1-pJVbDcWnLzXBo5C9L2pMbSWb2zZe0oS/view?usp=drivesdk
+Program result
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
@@ -132,8 +135,9 @@ Run commands -, npm start
 
 **Application Workflow:**
 
-![Workflow](docs/workflow.png)
-*Add caption explaining your workflow*
+https://drive.google.com/file/d/1RqI_wTNvhqKMbE-gB4S2bjKQBHePGI_5/view?usp=drivesdk
+
+The web works starting from Login/Register to a central Launch/Revise hub. Choosing "Launch" opens a detailed setup form for goals and habits, which then sorts users into Version A (Consistent) or Version B (Inconsistent) before reaching a final Saved state. Alternatively, selecting "Revise" allows users to manage Already Saved Goals by checking their current status. If the user is Still Continuing, the goal remains Saved; if not, the record is permanently deleted from the Web.
 
 ---
 
